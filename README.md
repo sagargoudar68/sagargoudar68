@@ -1,3 +1,4 @@
+![logo](https://github.com/sagargoudar68/sagargoudar68/blob/main/White%20and%20Blue%20Simple%20Gradient%20Business%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sagar Goudar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
